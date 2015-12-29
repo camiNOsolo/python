@@ -32,7 +32,7 @@ def main():
                 continue
             else:
                 password.append(caracter)
-                print(password)
+                # print(password)
                 # caracter = choice(list(set(caracteres) - {caracter}))
 
     else:
