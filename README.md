@@ -1,1 +1,1 @@
-# cositas hechas en python
+# Scripts varios realizados en python
